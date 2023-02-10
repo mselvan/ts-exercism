@@ -16,6 +16,7 @@ build
 .settings
 .exercism
 package-lock.json
+yarn.lock
 
 # sst build output
 .build
